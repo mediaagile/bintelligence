@@ -1,0 +1,57 @@
+Hello, I need a virtual lab developed in Oracle VM VirtualBox with:
+1) A MySQL database
+2) A Postgre Database
+3) A Hadoop database
+4) A Cassandra database
+5) An HBase database
+6) An Arango Community Edition database
+7) An Oracle Enterprise Data Quality 12.1.3 VM Database
+8) A Couchbase Community Edition database
+
+An application server
+
+Business Intelligence tools
+
+The most popular BI tools on the market are:
+
+Oracle - Siebel Business Analytics Applications
+SAS - Business Intelligence
+SAP - BusinessObjects XI
+IBM - Cognos 8 BI
+Oracle - Hyperion System 9 BI+
+Microsoft - Analysis Services
+MicroStrategy - Dynamic Enterprise Dashboards
+Pentaho - Open BI Suite
+Information Builders - WebFOCUS Business Intelligence
+QlikTech - QlikView
+TIBCO Spotfire - Enterprise Analytics
+Sybase - InfoMaker
+KXEN - IOLAP
+SPSS - ShowCase
+
+ETL tools
+
+List of the most popular ETL tools:
+
+Informatica - Power Center
+IBM - Websphere DataStage(Formerly known as Ascential DataStage)
+SAP - BusinessObjects Data Integrator
+IBM - Cognos Data Manager (Formerly known as Cognos DecisionStream)
+Microsoft - SQL Server Integration Services
+Oracle - Data Integrator (Formerly known as Sunopsis Data Conductor)
+SAS - Data Integration Studio
+Oracle - Warehouse Builder
+AB Initio
+Information Builders - Data Migrator
+Pentaho - Pentaho Data Integration
+Embarcadero Technologies - DT/Studio
+IKAN - ETL4ALL
+IBM - DB2 Warehouse Edition
+Pervasive - Data Integrator
+ETL Solutions Ltd. - Transformation Manager
+Group 1 Software (Sagent) - DataFlow
+Sybase - Data Integrated Suite ETL
+Talend - Talend Open Studio
+Expressor Software - Expressor Semantic Data Integration System
+Elixir - Elixir Repertoire
+OpenSys - CloverETL
